@@ -1,11 +1,11 @@
 # Node Express Boilerplate
 
 # Features
-- [TypeScript][typescript] [4.2][typescript-4-2]
-- [Express][express] - unopinionated nodejs web server
-- [ESLint][eslint] with some initial rules recommendation
-- [Jest][jest] for fast unit testing and code coverage
-- [Prettier][prettier] to enforce consistent code style
+- [TypeScript][typescript] [4.2][typescript-4-2] - type checking
+- [Express][express] - nodejs web server
+- [Jest][jest] - unit testing and code coverage
+- [ESLint][eslint] - code linting
+- [Prettier][prettier] - code formatting
 
 # Existing project
 - clone repository
