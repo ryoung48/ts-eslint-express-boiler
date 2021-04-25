@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "strictNullChecks": true,
+    "noUnusedLocals": true,
+    "resolveJsonModule": true,
+    "noUnusedParameters": false,
+    "sourceMap": true,
+    "declaration": false,
+    "skipLibCheck": true,
+    "outDir": "build",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "newLine": "LF",
+    "target": "es2019"
+  },
+  "include": ["src/**/*", "__tests__/express.spec.ts"],
+  "exclude": ["src/**/*.spec.ts"]
+}
