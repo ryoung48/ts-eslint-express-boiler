@@ -1,14 +1,11 @@
 # Node Express Boilerplate
 
 # Features
-- TypeScript
-- ESLint
-- Prettier
-- Express
-
-# Requirements
-- NodeJS v6.0 or newer
-- npm v3.3 or newer
+- [TypeScript][typescript] [4.2][typescript-4-2]
+- [Express][express] - unopinionated nodejs web server
+- [ESLint][eslint] with some initial rules recommendation
+- [Jest][jest] for fast unit testing and code coverage
+- [Prettier][prettier] to enforce consistent code style
 
 # Existing project
 - clone repository
@@ -36,3 +33,10 @@ npm test              : run unit tests
 npm run check:all     : run 'lint' and 'test' tasks
 npm run hooks:install : install git hooks
 ```
+
+[typescript]: https://www.typescriptlang.org/
+[typescript-4-2]: https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html
+[jest]: https://facebook.github.io/jest/
+[eslint]: https://github.com/eslint/eslint
+[prettier]: https://prettier.io
+[express]: https://expressjs.com/
